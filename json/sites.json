@@ -12,7 +12,7 @@
     "titleText":          "JS-разработка и верстка адаптивной версии сайта компании",
     "linkHref":           "//madison.ru",
     "linkText":           "Madison",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/template-madison",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/template-madison",
     "linkPictureEx":      "img/madi.png",
     "hashtags":           "<i>Adaptive</i>, <i>JS</i>.",
     "moreinfo":           "Верстка, написания скриптов интерфейсов, с дальнейшей поддержкой и развитием дизайна."
@@ -21,7 +21,7 @@
     "titleText":          "Редизайн для салона",
     "linkHref":           "//beautyway-s.ru/",
     "linkText":           "Beautyway",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/beautyway-layer",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/beautyway-layer",
     "linkPictureEx":      "img/beau.png",
     "hashtags":           "<i>HTML5/CSS3</i>, <i>JS</i>.",
     "moreinfo":           "Полный спектр фронтенд работ для магазина-многостраничника. <br/>В стадии разработки."
@@ -31,7 +31,7 @@
     "titleText":          "Конструктор печати для",
     "linkHref":           "//aviastuff.ru/product/airplane-fingerprint/?cat_id=7",
     "linkText":           "Aviastuff",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/printer-layer2",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/printer-layer2",
     "linkPictureEx":      "img/cons.png",
     "hashtags":           "<i>Fabric.js</i>, <i>canvas</i>, <i>adaptive</i>, <i>JS</i>.",
     "moreinfo":           "Использование библиотеки Fabric.js для canvas-конструктора фотопринтов, окончательный продукт по ссылке в заголовке."
@@ -41,7 +41,7 @@
     "titleText":          "Работа с Canvas и библиотекой",
     "linkHref":           "//fabricjs.com/",
     "linkText":           "fabric.js",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/animation/orange.html",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/animation/orange.html",
     "linkPictureEx":      "img/anor.png",
     "hashtags":           "<i>Fabric.js</i>, <i>canvas</i>, <i>JS</i>.",
     "moreinfo":           "Знакомство с Fabric.js, создание анимации."
@@ -50,7 +50,7 @@
     "titleText":          "Работа с Canvas и библиотекой",
     "linkHref":           "//fabricjs.com/",
     "linkText":           "fabric.js",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/animation/blue.html",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/animation/blue.html",
     "linkPictureEx":      "img/anbl.png",
     "hashtags":           "<i>Fabric.js</i>, <i>canvas</i>, <i>JS</i>.",
     "moreinfo":           "Знакомство с Fabric.js, создание анимации."
@@ -61,7 +61,7 @@
     "titleText":          "Верстка и адаптация сайта быттехники",
     "linkHref":           "//letoklimat.ru",
     "linkText":           "ЛетоКлимат",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/template",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/template",
     "linkPictureEx":      "img/leto.png",
     "hashtags":           "<i>HTML5/CSS3</i>, <i>adaptive</i>, <i>JS</i>.",
     "moreinfo":           "Включает в себя разработку дизайна адаптивности сайта."
@@ -81,7 +81,7 @@
     "titleText":          "Конструктор салона-интерьеров",
     "linkHref":           "//zashtorrkoy.ru/konstruktor-intererov/",
     "linkText":           "Zashtorrkoy",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/blinds-constructor",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/blinds-constructor",
     "linkPictureEx":      "img/shto.png",
     "hashtags":           "<i>Canvas</i>, <i>HTML5/CSS3</i>.",
     "moreinfo":           "Знакомство с canvas, использование кроссбраузерных правил CSS3."
@@ -92,7 +92,7 @@
     "titleText":          "Лендинг для",
     "linkHref":           "//skinmdnatural.com/",
     "linkText":           "SkinMD",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/skin",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/skin",
     "linkPictureEx":      "img/skin.png",
     "hashtags":           "<i>Adaptive</i>, <i>HTML5/CSS3</i>, <i>JS</i>.",
     "moreinfo":           "Верстка и разработка адаптивности, написание сценариев интерфейсов и их анимация."
@@ -101,16 +101,16 @@
     "titleText":          "Лендинг для",
     "linkHref":           "//vertex.cn15178.tmweb.ru/",
     "linkText":           "Vertex",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/vertex-template",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/vertex-template",
     "linkPictureEx":      "img/vert.png",
     "hashtags":           "<i>HTML5/CSS3</i>, <i>JS</i>.",
     "moreinfo":           "Для лендинг-страницы в разработке."
   },
   {
     "titleText":          "Пошаговая",
-    "linkHref":           "//good-page-proofs.pe.hu/added",
+    "linkHref":           "http://good-page-proofs.pe.hu/added",
     "linkText":           "форма",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/added",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/added",
     "linkPictureEx":      "img/form.png",
     "hashtags":           "<i>Adaptive</i>, <i>JS</i>.",
     "moreinfo":           "Для лендинг-страницы в разработке."
@@ -120,7 +120,7 @@
     "titleText":          "Верстка для",
     "linkHref":           "//redline.by/",
     "linkText":           "Redline",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/template-dota",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/template-dota",
     "linkPictureEx":      "img/redl.png",
     "hashtags":           "<i>HTML5/CSS3</i>.",
     "moreinfo":           "Рулетка на чистом CSS3."
@@ -128,27 +128,27 @@
 
   {
     "titleText":          "Начальная, тестовая",
-    "linkHref":           "//good-page-proofs.pe.hu/III",
+    "linkHref":           "http://good-page-proofs.pe.hu/III",
     "linkText":           "верстка III",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/III",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/III",
     "linkPictureEx":      "img/btst.png",
     "hashtags":           "<i>Bootstrap</i>.",
     "moreinfo":           "Пробная верстка на Bootstrap."
   },
   {
     "titleText":          "Начальная, тестовая",
-    "linkHref":           "//good-page-proofs.pe.hu/II",
+    "linkHref":           "http://good-page-proofs.pe.hu/II",
     "linkText":           "верстка II",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/II",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/II",
     "linkPictureEx":      "img/prda.png",
     "hashtags":           "<i>HTML5/CSS3</i>.",
     "moreinfo":           "Пробная верстка."
   },
   {
     "titleText":          "Начальная, тестовая",
-    "linkHref":           "//good-page-proofs.pe.hu/I",
+    "linkHref":           "http://good-page-proofs.pe.hu/I",
     "linkText":           "верстка I",
-    "linkHrefEx":         "//good-page-proofs.pe.hu/I",
+    "linkHrefEx":         "http://good-page-proofs.pe.hu/I",
     "linkPictureEx":      "img/cute.png",
     "hashtags":           "<i>HTML5/CSS3</i>, <i>adaptive</i>, <i>JS</i>.",
     "moreinfo":           "Пробная верстка с адаптацией."
