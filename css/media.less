@@ -1,0 +1,43 @@
+/*
+███    ███ ███████ ██████  ██  █████
+████  ████ ██      ██   ██ ██ ██   ██
+██ ████ ██ █████   ██   ██ ██ ███████
+██  ██  ██ ██      ██   ██ ██ ██   ██
+██      ██ ███████ ██████  ██ ██   ██
+*/
+
+@container-width: 920px;
+
+.container--width {
+  @media screen and (max-width: 998px) {
+    @container-width: 615px;
+    width: @container-width;
+  }
+  @media screen and (max-width: 660px) {
+    @container-width: 290px;
+    width: @container-width;
+  }
+}
+
+.list__item {
+  @media screen and (max-width: 998px) {
+    vertical-align: bottom;
+  }
+}
+
+.list.justify-box {
+
+  @media screen and (max-width: 660px) {
+    text-align: center;
+
+    &:after {
+      content: none;
+    }
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .hidden-in-block {
+    display: none !important;
+  }
+}
