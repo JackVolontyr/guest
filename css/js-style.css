@@ -1,0 +1,37 @@
+/*
+     ██ ███████
+     ██ ██
+     ██ ███████
+██   ██      ██
+ █████  ███████
+*/
+@media screen and (max-width: 660px) {
+  .js-grid.panel__grid .fa {
+    display: none;
+  }
+}
+.js-like-list--active .js-grid .fa-th {
+  font-size: 18px;
+  margin-top: 2px;
+}
+.js-like-list--active .js-grid .fa-th-list {
+  font-size: 24px;
+  margin-top: 0px;
+}
+.js-grid {
+  font-size: 0;
+  cursor: pointer;
+}
+.js-grid .fa-th {
+  font-size: 24px;
+  margin-top: 0px;
+}
+.js-grid .fa-th-list {
+  font-size: 18px;
+  margin-top: 2px;
+}
+.js-font__minus,
+.js-font__normal,
+.js-font__plus {
+  cursor: pointer;
+}
