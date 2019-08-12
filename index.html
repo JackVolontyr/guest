@@ -21,12 +21,9 @@
 	<link rel="stylesheet" href="css/js-style.min.css" />
 </head>
 
-
 <body id="home" class="js-like-list--active" data-toggle-main="grid" >
-
 	<!-- >> header -->
 	<header class="">
-
 		<div class="header__panel container--width">
 			<div class="third">
 				<div class="third__box panel__logo" data-toggle-main="logo" data-toggle-open="logo">
@@ -38,58 +35,28 @@
 						<li class="social__list social__list--avatar">
 							<img src="file/avatar.jpg" alt="" />
 						</li>
-
-						<li class="social__list social__list--home">
-							<a rel="noopener" target="_blank" href="index.html" class="social__link social__link--home">
-								<i class="fa fa-home" aria-hidden="true"></i>
-							</a>
-						</li>
-
-						<li class="social__list half__box">
-							<a rel="noopener" target="_blank" href="//vk.com/jackkcaj" class="social__link">
-								<i class="fa fa-vk" aria-hidden="true"></i>
-							</a>
-						</li>
-
 						<li class="social__list half__box">
 							<a rel="noopener" target="_blank" href="//www.facebook.com/profile.php?id=100008667730928" class="social__link">
 								<i class="fa fa-facebook" aria-hidden="true"></i>
 							</a>
 						</li>
-
 						<li class="social__list half__box">
 							<a rel="noopener" target="_blank" href="//github.com/JackVolontyr" class="social__link">
 								<i class="fa fa-github" aria-hidden="true"></i>
 							</a>
 						</li>
-
-						<li class="social__list half__box">
-							<a rel="noopener" target="_blank" href="skype:jackvkcaj" class="social__link">
-								<i class="fa fa-skype" aria-hidden="true"></i>
-							</a>
-						</li>
-
 						<li class="social__list">
 							<a rel="noopener" target="_blank" href="mailto:soapforwork@gmail.com" class="social__link social__link--mail">
 								<i class="fa fa-envelope-open-o" aria-hidden="true"></i>
 								soapforwork<br/>@gmail.com
 							</a>
 						</li>
-
-						<!-- <li class="social__list">
-							<a href="" class="social__link social__link--download">
+						<li class="social__list">
+							<a href="file/cv.pdf" rel="noopener" target="_blank" class="social__link social__link--download">
 								CV
 								<i class="fa fa-download" aria-hidden="true"></i>
 							</a>
-						</li> -->
-
-						<li class="social__list">
-							<a href="file/cv_ru.pdf" rel="noopener" target="_blank" class="social__link social__link--download">
-								CV rus
-								<i class="fa fa-download" aria-hidden="true"></i>
-							</a>
 						</li>
-
 					</ul>
 				</div>
 
@@ -108,49 +75,46 @@
 				</div>
 			</div>
 		</div>
-
 	</header>
 	<!-- header << -->
 
-
 	<!-- >> main -->
 	<main class="container--width">
-
 		<!-- >> LoDash -->
 		<ul class="js-template__sites list justify-box"></ul>
-
-    <script type="text/template" id="templateSites">
-      <% option.forEach(function(item) { %>
-
-				<li class="list__item">
-					<div class="list__info-block">
-						<h2 class="list__title">
-							<%= item.titleText %>
+		<script type="text/template" id="templateSites">
+		  <% option.forEach(function(item) { %>
+			<li class="list__item">
+				<div class="list__info-block">
+					<h2 class="list__title">
+						<%= item.titleText %>
+						<% if (item.linkHref !== undefined) { %>
 							<a rel="noopener" target="_blank" href="<%= item.linkHref %>">
 								<%= item.linkText %>
 							</a>
-						</h2>
-						<div class="hidden-in-block list__moreinfo">
-							<%= item.moreinfo %>
-						</div>
-						<div class="hidden-in-block list__hashtags">
-							<%= item.hashtags %>
-						</div>
+						<% } %>
+					</h2>
+					<div class="hidden-in-block list__moreinfo">
+						<%= item.moreinfo %>
 					</div>
+					<div class="hidden-in-block list__hashtags">
+						<%= item.hashtags %>
+					</div>
+				</div>
 
-					<a class="list__link shadowBox" rel="noopener" target="_blank" href="<%= item.linkHrefEx %>" style="background-image: url('<%= item.linkPictureEx %>')"></a>
-				</li>
-
-      <% }); %>
-    </script>
+				<a class="list__link shadowBox"
+				   rel="noopener"
+				   target="_blank"
+				   href="<%= item.linkHrefEx %>"
+				   style="background-image: url('<%= item.linkPictureEx %>')"></a>
+			</li>
+		  <% }); %>
+		</script>
 		<!-- LoDash << -->
-
 	</main>
 	<!-- >> main -->
 
-
 	<!-- JS -->
-
 	<!--[if lt IE 9]>
 	<script src="libs/html5shiv/es5-shim.min.js"></script>
 	<script src="libs/html5shiv/html5shiv.min.js"></script>
@@ -158,9 +122,7 @@
 	<script src="libs/respond/respond.min.js"></script>
 	<![endif]-->
 
-	<script src="https://cdn.jsdelivr.net/lodash/4.17.2/lodash.min.js"></script>
+	<script src="//cdn.jsdelivr.net/lodash/4.17.2/lodash.min.js"></script>
 	<script src="js/common.min.js"></script>
-
-
 </body>
 </html>
