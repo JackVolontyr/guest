@@ -47,7 +47,7 @@
     "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/printer-layer2",
     "linkPictureEx":      "img/cons.png",
     "hashtags":           "<i>Fabric.js</i>, <i>canvas</i>, <i>adaptive</i>, <i>JS</i>.",
-    "moreinfo":           "Using the Fabric.js library for the canvas photo print constructor."
+    "moreinfo":           "Using Fabric.js library for canvas photo print constructor."
   },
   {
     "titleText":          "Working with the Canvas Library",
@@ -74,7 +74,7 @@
     "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/template",
     "linkPictureEx":      "img/leto.png",
     "hashtags":           "<i>HTML5/CSS3</i>, <i>adaptive</i>, <i>JS</i>.",
-    "moreinfo":           "Includes website responsiveness design development."
+    "moreinfo":           "Design development for the adaptive version."
   },
   {
     "titleText":          "Prize animation on pure css for the contest",
