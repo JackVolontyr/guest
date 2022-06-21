@@ -5,6 +5,7 @@
 <!--[if gt IE 8]><!-->
 <html lang="ru">
 <!--<![endif]-->
+
 <head>
 	<meta charset="utf-8" />
 	<title>Hello!</title>
@@ -15,64 +16,66 @@
 	<link rel="shortcut icon" href="img/ab.ico" />
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
-	<!-- <link rel="stylesheet" href="css/style.css" /> -->
 	<link rel="stylesheet" href="css/style.min.css" />
-	<!-- <link rel="stylesheet" href="css/js-style.css" /> -->
-	<link rel="stylesheet" href="css/js-style.min.css" />
 </head>
 
 <body id="home" class="js-like-list--active" data-toggle-main="grid" >
 	<!-- >> header -->
 	<header class="">
 		<div class="header__panel container--width">
-			<div class="third">
-				<div class="third__box panel__logo" data-toggle-main="logo" data-toggle-open="logo">
-					<div class="panel__logo--block">
-						Jack Volontyr
-					</div>
-
-					<ul class="social half">
-						<li class="social__list social__list--avatar">
-							<img src="file/avatar.jpg" alt="" />
-						</li>
-						<li class="social__list half__box">
-							<a rel="noopener" target="_blank" href="//www.facebook.com/profile.php?id=100008667730928" class="social__link">
-								<i class="fa fa-facebook" aria-hidden="true"></i>
-							</a>
-						</li>
-						<li class="social__list half__box">
-							<a rel="noopener" target="_blank" href="//github.com/JackVolontyr" class="social__link">
-								<i class="fa fa-github" aria-hidden="true"></i>
-							</a>
-						</li>
-						<li class="social__list">
-							<a rel="noopener" target="_blank" href="mailto:soapforwork@gmail.com" class="social__link social__link--mail">
-								<i class="fa fa-envelope-open-o" aria-hidden="true"></i>
-								soapforwork<br/>@gmail.com
-							</a>
-						</li>
-						<li class="social__list">
-							<a href="file/cv.pdf" rel="noopener" target="_blank" class="social__link social__link--download">
-								CV
-								<i class="fa fa-download" aria-hidden="true"></i>
-							</a>
-						</li>
-					</ul>
+			<div class="panel__logo" data-toggle-main="logo" data-toggle-open="logo">
+				<div class="panel__logo--block">
+					Yevhen Volontyr
 				</div>
 
-				<!-- Zoom -->
-				<div class="third__box panel__zoom">
-					<!-- <i class="fa fa-search-minus js-font__minus" 	aria-hidden="true"></i>
-					<i class="fa fa-search 			 js-font__normal" aria-hidden="true"></i>
-					<i class="fa fa-search-plus  js-font__plus" 	aria-hidden="true"></i> -->
-				</div>
+				<ul class="social half">
+					<li class="social__list social__list--avatar">
+						<img src="file/avatar.jpg" alt="" />
+					</li>
+					<li class="social__list half__box">
+						<a rel="noopener" target="_blank" href="//www.facebook.com/profile.php?id=100008667730928" class="social__link">
+							<i class="fa fa-facebook" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="social__list half__box">
+						<a rel="noopener" target="_blank" href="//github.com/JackVolontyr" class="social__link">
+							<i class="fa fa-github" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="social__list">
+						<a rel="noopener" target="_blank" href="mailto:soapforwork@gmail.com" class="social__link social__link--mail">
+							<i class="fa fa-envelope-open-o" aria-hidden="true"></i>
+							soapforwork<br/>@gmail.com
+						</a>
+					</li>
+					<li class="social__list">
+						<a href="file/cv.pdf" rel="noopener" target="_blank" class="social__link social__link--download">
+							CV
+							<i class="fa fa-download" aria-hidden="true"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
 
-				<!-- Grid -->
-				<div class="third__box panel__grid js-grid" data-toggle-open="grid">
-					<i class="fa fa-th-list  js-grid__list" aria-hidden="true"></i>
-					<i class="fa fa-arrows-h " aria-hidden="true"></i>
-					<i class="fa fa-th 			 js-grid__grid" aria-hidden="true"></i>
+			<!-- Zoom -->
+			<div class="panel__lost">
+				<div>
+					<input data-radio-lost="seeAll" type="radio" id="lostChoice1" name="lost" value="seeAll" checked>
+					<label for="lostChoice1">Show All</label>
+			
+					<input data-radio-lost="seeExists" type="radio" id="lostChoice2" name="lost" value="seeExists">
+					<label for="lostChoice2">Show Exists</label>
+			
+					<input data-radio-lost="seeLost" type="radio" id="lostChoice3" name="lost" value="seeLost">
+					<label for="lostChoice3">Show Lost</label>
 				</div>
+			</div>
+
+			<!-- Grid -->
+			<div class="panel__grid js-grid" data-toggle-open="grid">
+				<i class="fa fa-th-list  js-grid__list" aria-hidden="true"></i>
+				<i class="fa fa-arrows-h " aria-hidden="true"></i>
+				<i class="fa fa-th js-grid__grid" aria-hidden="true"></i>
 			</div>
 		</div>
 	</header>
@@ -81,33 +84,41 @@
 	<!-- >> main -->
 	<main class="container--width">
 		<!-- >> LoDash -->
-		<ul class="js-template__sites list justify-box"></ul>
+		<ul class="list" data-template-target></ul>
 		<script type="text/template" id="templateSites">
 		  <% option.forEach(function(item) { %>
-			<li class="list__item">
-				<div class="list__info-block">
-					<h2 class="list__title">
-						<%= item.titleText %>
-						<% if (item.linkHref !== undefined) { %>
-							<a rel="noopener" target="_blank" href="<%= item.linkHref %>">
-								<%= item.linkText %>
-							</a>
-						<% } %>
-					</h2>
-					<div class="hidden-in-block list__moreinfo">
-						<%= item.moreinfo %>
+				<% if (item.lost === "true") { %>
+					<li class="list__item list__item--lost" data-list-item="lost">
+				<% } else { %>
+					<li class="list__item" data-list-item>
+				<% } %>
+					<div class="list__info-block">
+						<h2 class="list__title">
+							<%= item.titleText %>
+							<% if (item.linkHref !== undefined) { %>
+								<a rel="noopener" target="_blank" href="<%= item.linkHref %>">
+									<%= item.linkText %>
+								</a>
+							<% } %>
+						</h2>
+						<div class="list__moreinfo">
+							<%= item.moreinfo %>
+						</div>
+						<div class="list__hashtags">
+							<%= item.hashtags %>
+						</div>
 					</div>
-					<div class="hidden-in-block list__hashtags">
-						<%= item.hashtags %>
-					</div>
-				</div>
 
-				<a class="list__link shadowBox"
-				   rel="noopener"
-				   target="_blank"
-				   href="<%= item.linkHrefEx %>"
-				   style="background-image: url('<%= item.linkPictureEx %>')"></a>
-			</li>
+					<% if (item.lost === "true") { %>
+						<div class="list__link" style="background-image: url('<%= item.linkPictureEx %>')"></div>
+					<% } else { %>
+						<a class="list__link shadowBox"
+							rel="noopener"
+							target="_blank"
+							href="<%= item.linkHrefEx %>"
+							style="background-image: url('<%= item.linkPictureEx %>')"></a>
+					<% } %>
+				</li>
 		  <% }); %>
 		</script>
 		<!-- LoDash << -->
@@ -123,6 +134,7 @@
 	<![endif]-->
 
 	<script src="//cdn.jsdelivr.net/lodash/4.17.2/lodash.min.js"></script>
-	<script src="js/common.min.js"></script>
+	<script src="js/functions.js"></script>
+	<script src="js/common.js"></script>
 </body>
 </html>
