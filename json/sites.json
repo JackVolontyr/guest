@@ -1,152 +1,172 @@
 [
-  {
-    "titleText":          "Ruby on Rails Course Project",
-    "linkHrefEx":         "//tutu-just.herokuapp.com/",
-    "linkPictureEx":      "img/ror.jpg",
-    "hashtags":           "<i>Ruby on Rails</i>, <i>Rspec</i>, <i>Capybara</i>, <i>Cucumber</i>, <i>RESTful</i>, <i>Postgresql</i>, <i>Ajax</i>, <i>JS</i>, <i>CoffeeScript</i>.",
-    "moreinfo":           "Online ticket sales service with chat support functionality."
-  },
-  {
-    "titleText":          "I am Action",
-    "linkHrefEx":         "//www.iamaction.com/",
-    "linkPictureEx":      "img/iam.jpg",
-    "hashtags":           "<i>Ruby on Rails</i>, <i>Mountain View</i>, <i>StimulusJs</i>, <i>jQuery</i>, <i>JS</i>.",
-    "moreinfo":           "Development of fundraise service iamaction.com for Palsio, a Canadian company. <br/>Acquaintance with Ruby on Rails project, component approach, testing and many cool\nthings."
-  },
-  {
-    "titleText":          "Course Project for",
-    "linkHref":           "//learn.javascript.ru/courses/js",
-    "linkText":           "'JavaScript/DOM/Interfaces'",
-    "linkHrefEx":         "//jackvolontyr.github.io/calcjs/",
-    "linkPictureEx":      "img/calc.png",
-    "hashtags":           "<i>OOP</i>, <i>WebPack</i>, <i>Lodash</i>, <i>JS</i>.",
-    "moreinfo":           "Putting into practice the skills acquired during the course, using the OOP model."
-  },
-  {
-    "titleText":          "JS-development and adaptive version of the company website",
-    "linkHref":           "//madison.ru",
-    "linkText":           "Madison",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/template-madison/index.html",
-    "linkPictureEx":      "img/madi.png",
-    "hashtags":           "<i>Adaptive</i>, <i>JS</i>.",
-    "moreinfo":           "Layout, scripting interfaces, with further support and development of the design."
-  },
-  {
-    "titleText":          "Redesign for the",
-    "linkHref":           "//beautyway-s.ru/",
-    "linkText":           "Beautyway",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/beautyway-layer",
-    "linkPictureEx":      "img/beau.png",
-    "hashtags":           "<i>HTML5/CSS3</i>, <i>JS</i>.",
-    "moreinfo":           "A full range of front-end works for a multi-page store."
-  },
-  {
-    "titleText":          "Print Designer for",
-    "linkHref":           "//aviastuff.ru/product/airplane-fingerprint/?cat_id=7",
-    "linkText":           "Aviastuff",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/printer-layer2",
-    "linkPictureEx":      "img/cons.png",
-    "hashtags":           "<i>Fabric.js</i>, <i>canvas</i>, <i>adaptive</i>, <i>JS</i>.",
-    "moreinfo":           "Using Fabric.js library for canvas photo print constructor."
-  },
-  {
-    "titleText":          "Working with the Canvas Library",
-    "linkHref":           "//fabricjs.com/",
-    "linkText":           "fabric.js",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/animation/orange.html",
-    "linkPictureEx":      "img/anor.png",
-    "hashtags":           "<i>Fabric.js</i>, <i>canvas</i>, <i>JS</i>.",
-    "moreinfo":           "Introducing Fabric.js, creating animations."
-  },
-  {
-    "titleText":          "Working with the Canvas Library",
-    "linkHref":           "//fabricjs.com/",
-    "linkText":           "fabric.js",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/animation/blue.html",
-    "linkPictureEx":      "img/anbl.png",
-    "hashtags":           "<i>Fabric.js</i>, <i>canvas</i>, <i>JS</i>.",
-    "moreinfo":           "Introducing Fabric.js, creating animations."
-  },
-  {
-    "titleText":          "Layout and adaptive version of the home appliance website",
-    "linkHref":           "//letoklimat.ru",
-    "linkText":           "ЛетоКлимат",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/template",
-    "linkPictureEx":      "img/leto.png",
-    "hashtags":           "<i>HTML5/CSS3</i>, <i>adaptive</i>, <i>JS</i>.",
-    "moreinfo":           "Design development for the adaptive version."
-  },
-  {
-    "titleText":          "Prize animation on pure css for the contest",
-    "linkHref":           "//htmlforum.io/topic/53862-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%C2%AB%D1%80%D0%BE%D0%B6%D0%B8%D1%86%D1%8B%C2%BB/",
-    "linkText":           "htmlforum",
-    "linkHrefEx":         "//jsfiddle.net/Jack_V_V/q6gksdv6/embedded/result/",
-    "linkPictureEx":      "img/yoda.png",
-    "hashtags":           "<i>HTML5/CSS3</i>.",
-    "moreinfo":           "Pure HTML5/CSS3 animation using @keyframes."
-  },
-  {
-    "titleText":          "Interior Designer",
-    "linkHref":           "//zashtorrkoy.ru/konstruktor-intererov/",
-    "linkText":           "Zashtorrkoy",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/blinds-constructor",
-    "linkPictureEx":      "img/shto.png",
-    "hashtags":           "<i>Canvas</i>, <i>HTML5/CSS3</i>.",
-    "moreinfo":           "Introducing canvas, using CSS3 cross-browser rules."
-  },
-  {
-    "titleText":          "Landing for",
-    "linkHref":           "//skinmdnatural.com/",
-    "linkText":           "SkinMD",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/skin",
-    "linkPictureEx":      "img/skin.png",
-    "hashtags":           "<i>Adaptive</i>, <i>HTML5/CSS3</i>, <i>JS</i>.",
-    "moreinfo":           "Layout and adaptive version, scripting interfaces and their animation."
-  },
-  {
-    "titleText":          "Landing for Vertex company",
-    "linkText":           "Vertex",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/vertex-template",
-    "linkPictureEx":      "img/vert.png",
-    "hashtags":           "<i>HTML5/CSS3</i>, <i>JS</i>.",
-    "moreinfo":           "For a landing page in development."
-  },
-  {
-    "titleText":          "Step-by-step form",
-    "linkHref":           "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/formv2.1.1/",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/formv2.1.1/",
-    "linkPictureEx":      "img/form.png",
-    "hashtags":           "<i>Adaptive</i>, <i>JS</i>.",
-    "moreinfo":           "For a landing page in development."
-  },
-  {
-    "titleText":          "Layout for",
-    "linkHref":           "//redline.by/",
-    "linkText":           "Redline",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/template-dota",
-    "linkPictureEx":      "img/redl.png",
-    "hashtags":           "<i>HTML5/CSS3</i>.",
-    "moreinfo":           "Site layout and roulette in pure CSS3."
-  },
-  {
-    "titleText":          "Test work after course",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/III",
-    "linkPictureEx":      "img/btst.png",
-    "hashtags":           "<i>Bootstrap</i>.",
-    "moreinfo":           "Test layout on Bootstrap."
-  },
-  {
-    "titleText":          "Test work after course",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/II",
-    "linkPictureEx":      "img/prda.png",
-    "hashtags":           "<i>HTML5/CSS3</i>.",
-    "moreinfo":           "Test layout."
-  },
-  {
-    "titleText":          "Test work after course",
-    "linkHrefEx":         "//work-for-cv.000webhostapp.com/u247667514.20190621122435/u247667514/public_html/I",
-    "linkPictureEx":      "img/cute.png",
-    "hashtags":           "<i>HTML5/CSS3</i>, <i>adaptive</i>, <i>JS</i>.",
-    "moreinfo":           "Test layout with adaptive version."
-  }
+	{
+		"titleText": "NodeJS Complete guide",
+		"linkHrefEx": "//quiet-falls-87524.herokuapp.com/",
+		"linkPictureEx": "img/together.png",
+		"hashtags": "<i>NodeJS</i>, <i>Express</i>, <i>MongoDB</i>, <i>Mongoose</i>, <i>Handlebars</i>, <i>JS</i>.",
+		"moreinfo": "Social network with functions: user authorization (e-mail support), creation and updating of public proposals."
+	},
+	{
+		"titleText": "Professional React + Redux Course Project",
+		"linkHrefEx": "//jackvolontyr.github.io/red-store-build/",
+		"linkPictureEx": "img/react+redux.png",
+		"hashtags": "<i>React</i>, <i>Router</i>, <i>Redux</i>, <i>Thunk</i>, <i>JS</i>.",
+		"moreinfo": "Bookstore with search, sorting, shopping cart features."
+	},
+	{
+		"titleText": "Professional React Course Project",
+		"linkHrefEx": "//jackvolontyr.github.io/star-db-build/",
+		"linkPictureEx": "img/star-db.png",
+		"hashtags": "<i>React</i>, <i>Router</i>, <i>HOC</i>, <i>Swapi</i>, <i>JS</i>.",
+		"moreinfo": "Work with api service, hoc, Router for React project."
+	},
+	{
+		"titleText": "Ruby on Rails Course Project",
+		"linkHrefEx": "//tutu-just.herokuapp.com/",
+		"linkPictureEx": "img/ror.jpg",
+		"hashtags": "<i>Ruby on Rails</i>, <i>Rspec</i>, <i>Capybara</i>, <i>Cucumber</i>, <i>RESTful</i>, <i>Postgresql</i>, <i>Ajax</i>, <i>JS</i>, <i>CoffeeScript</i>.",
+		"moreinfo": "Online ticket sales service with chat support functionality."
+	},
+	{
+		"titleText": "I am Action",
+		"linkHrefEx": "//www.iamaction.com/",
+		"linkPictureEx": "img/iam.jpg",
+		"hashtags": "<i>Ruby on Rails</i>, <i>Mountain View</i>, <i>StimulusJs</i>, <i>jQuery</i>, <i>JS</i>.",
+		"moreinfo": "Development of fundraise service iamaction.com for Palsio, a Canadian company. <br/>Acquaintance with Ruby on Rails project, component approach, testing and many cool\nthings."
+	},
+	{
+		"titleText": "Course Project for",
+		"linkHref": "//learn.javascript.ru/courses/js",
+		"linkText": "'JavaScript/DOM/Interfaces'",
+		"linkHrefEx": "//jackvolontyr.github.io/calcjs/",
+		"linkPictureEx": "img/calc.png",
+		"hashtags": "<i>OOP</i>, <i>WebPack</i>, <i>Lodash</i>, <i>JS</i>.",
+		"moreinfo": "Putting into practice the skills acquired during the course, using the OOP model."
+	},
+	{
+		"titleText": "JS-development and adaptive version of the company website",
+		"linkHref": "//madison.ru",
+		"linkText": "Madison",
+		"lost": "true",
+		"linkPictureEx": "img/madi.png",
+		"hashtags": "<i>Adaptive</i>, <i>JS</i>.",
+		"moreinfo": "Layout, scripting interfaces, with further support and development of the design."
+	},
+	{
+		"titleText": "Redesign for the",
+		"linkHref": "//beautyway-s.ru/",
+		"linkText": "Beautyway",
+		"lost": "true",
+		"linkPictureEx": "img/beau.png",
+		"hashtags": "<i>HTML5/CSS3</i>, <i>JS</i>.",
+		"moreinfo": "A full range of front-end works for a multi-page store."
+	},
+	{
+		"titleText": "Print Designer for",
+		"linkHref": "//aviastuff.ru/product/airplane-fingerprint/?cat_id=7",
+		"linkText": "Aviastuff",
+		"lost": "true",
+		"linkPictureEx": "img/cons.png",
+		"hashtags": "<i>Fabric.js</i>, <i>canvas</i>, <i>adaptive</i>, <i>JS</i>.",
+		"moreinfo": "Using Fabric.js library for canvas photo print constructor."
+	},
+	{
+		"titleText": "Working with the Canvas Library",
+		"linkHref": "//fabricjs.com/",
+		"linkText": "fabric.js",
+		"lost": "true",
+		"linkPictureEx": "img/anor.png",
+		"hashtags": "<i>Fabric.js</i>, <i>canvas</i>, <i>JS</i>.",
+		"moreinfo": "Introducing Fabric.js, creating animations."
+	},
+	{
+		"titleText": "Working with the Canvas Library",
+		"linkHref": "//fabricjs.com/",
+		"linkText": "fabric.js",
+		"lost": "true",
+		"linkPictureEx": "img/anbl.png",
+		"hashtags": "<i>Fabric.js</i>, <i>canvas</i>, <i>JS</i>.",
+		"moreinfo": "Introducing Fabric.js, creating animations."
+	},
+	{
+		"titleText": "Layout and adaptive version of the home appliance website",
+		"linkHref": "//letoklimat.ru",
+		"linkText": "ЛетоКлимат",
+		"lost": "true",
+		"linkPictureEx": "img/leto.png",
+		"hashtags": "<i>HTML5/CSS3</i>, <i>adaptive</i>, <i>JS</i>.",
+		"moreinfo": "Design development for the adaptive version."
+	},
+	{
+		"titleText": "Prize animation on pure css for the contest",
+		"linkHref": "//htmlforum.io/topic/53862-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81-%C2%AB%D1%80%D0%BE%D0%B6%D0%B8%D1%86%D1%8B%C2%BB/",
+		"linkText": "htmlforum",
+		"linkHrefEx": "//jsfiddle.net/Jack_V_V/q6gksdv6/embedded/result/",
+		"linkPictureEx": "img/yoda.png",
+		"hashtags": "<i>HTML5/CSS3</i>.",
+		"moreinfo": "Pure HTML5/CSS3 animation using @keyframes."
+	},
+	{
+		"titleText": "Interior Designer",
+		"linkHref": "//zashtorrkoy.ru/konstruktor-intererov/",
+		"linkText": "Zashtorrkoy",
+		"lost": "true",
+		"linkPictureEx": "img/shto.png",
+		"hashtags": "<i>Canvas</i>, <i>HTML5/CSS3</i>.",
+		"moreinfo": "Introducing canvas, using CSS3 cross-browser rules."
+	},
+	{
+		"titleText": "Landing for",
+		"linkHref": "//skinmdnatural.com/",
+		"linkText": "SkinMD",
+		"lost": "true",
+		"linkPictureEx": "img/skin.png",
+		"hashtags": "<i>Adaptive</i>, <i>HTML5/CSS3</i>, <i>JS</i>.",
+		"moreinfo": "Layout and adaptive version, scripting interfaces and their animation."
+	},
+	{
+		"titleText": "Landing for Vertex company",
+		"linkText": "Vertex",
+		"lost": "true",
+		"linkPictureEx": "img/vert.png",
+		"hashtags": "<i>HTML5/CSS3</i>, <i>JS</i>.",
+		"moreinfo": "For a landing page in development."
+	},
+	{
+		"titleText": "Step-by-step form",
+		"linkHrefEx": "//jackvolontyr.github.io/step-by-step-form/",
+		"linkPictureEx": "img/form.png",
+		"hashtags": "<i>JS</i>, <i>Adaptive</i>.",
+		"moreinfo": "For a landing page in development."
+	},
+	{
+		"titleText": "Layout for",
+		"linkHref": "//redline.by/",
+		"linkText": "Redline",
+		"lost": "true",
+		"linkPictureEx": "img/redl.png",
+		"hashtags": "<i>HTML5/CSS3</i>.",
+		"moreinfo": "Site layout and roulette in pure CSS3."
+	},
+	{
+		"titleText": "Test work after course",
+		"lost": "true",
+		"linkPictureEx": "img/btst.png",
+		"hashtags": "<i>Bootstrap</i>.",
+		"moreinfo": "Test layout on Bootstrap."
+	},
+	{
+		"titleText": "Test work after course",
+		"lost": "true",
+		"linkPictureEx": "img/prda.png",
+		"hashtags": "<i>HTML5/CSS3</i>.",
+		"moreinfo": "Test layout."
+	},
+	{
+		"titleText": "Test work after course",
+		"lost": "true",
+		"linkPictureEx": "img/cute.png",
+		"hashtags": "<i>HTML5/CSS3</i>, <i>adaptive</i>, <i>JS</i>.",
+		"moreinfo": "Test layout with adaptive version."
+	}
 ]
