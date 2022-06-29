@@ -1,7 +1,7 @@
 [
 	{
 		"titleText": "NodeJS Complete guide",
-		"linkHrefEx": "//quiet-falls-87524.herokuapp.com/",
+		"linkHrefEx": "//together-social-network.herokuapp.com/",
 		"linkPictureEx": "img/together.png",
 		"hashtags": "<i>NodeJS</i>, <i>Express</i>, <i>MongoDB</i>, <i>Mongoose</i>, <i>Handlebars</i>, <i>JS</i>.",
 		"moreinfo": "Social network with functions: user authorization (e-mail support), creation and updating of public proposals."
