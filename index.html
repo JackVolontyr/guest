@@ -95,15 +95,26 @@
 					<div class="list__info-block">
 						<h2 class="list__title">
 							<%= item.titleText %>
-							<% if (item.linkHref !== undefined) { %>
+							<% if (item.linkHref) { %>
 								<a rel="noopener" target="_blank" href="<%= item.linkHref %>">
 									<%= item.linkText %>
 								</a>
 							<% } %>
 						</h2>
+
 						<div class="list__moreinfo">
 							<%= item.moreinfo %>
 						</div>
+
+						<% if (item.repository) { %>
+							<div class="list__repository">
+								<a rel="noopener" target="_blank" href="<%= item.repository %>">
+									<i class="fa fa-github" aria-hidden="true"></i>
+									Check the project repository
+								</a>
+							</div>
+						<% } %>
+
 						<div class="list__hashtags">
 							<%= item.hashtags %>
 						</div>

@@ -114,9 +114,28 @@ body {
 	&__moreinfo {
 		padding-top: 0;
 		padding-bottom: 0;
-		text-align: left;
 		color: @por-text-gray;
+		text-align: left;
 		.inner-offset();
+	}
+
+	&__repository {
+		padding-top: 14px;
+		padding-bottom: 4px;
+		font-size: 0.875rem;
+		.inner-offset();
+
+		a {
+			display: flex;
+			align-items: center;
+			align-items: center;
+			text-decoration: none; 
+		}
+
+		.fa {
+			margin-right: 5px;
+			font-size: 1.875rem;
+		}
 	}
 
 	&__hashtags {

@@ -4,6 +4,7 @@
 		"linkHrefEx": "//together-social-network.herokuapp.com/",
 		"linkPictureEx": "img/together.png",
 		"hashtags": "<i>NodeJS</i>, <i>Express</i>, <i>MongoDB</i>, <i>Mongoose</i>, <i>Handlebars</i>, <i>JS</i>.",
+		"repository": "//github.com/JackVolontyr/together",
 		"moreinfo": "Social network with functions: user authorization (e-mail support), creation and updating of public proposals."
 	},
 	{
@@ -11,6 +12,7 @@
 		"linkHrefEx": "//jackvolontyr.github.io/red-store-build/",
 		"linkPictureEx": "img/react+redux.png",
 		"hashtags": "<i>React</i>, <i>Router</i>, <i>Redux</i>, <i>Thunk</i>, <i>JS</i>.",
+		"repository": "//github.com/JackVolontyr/red-store/",
 		"moreinfo": "Bookstore with search, sorting, shopping cart features."
 	},
 	{
@@ -18,6 +20,7 @@
 		"linkHrefEx": "//jackvolontyr.github.io/star-db-build/",
 		"linkPictureEx": "img/star-db.png",
 		"hashtags": "<i>React</i>, <i>Router</i>, <i>HOC</i>, <i>Swapi</i>, <i>JS</i>.",
+		"repository": "//github.com/JackVolontyr/star-db",
 		"moreinfo": "Work with api service, hoc, Router for React project."
 	},
 	{
@@ -25,6 +28,7 @@
 		"linkHrefEx": "//tutu-just.herokuapp.com/",
 		"linkPictureEx": "img/ror.jpg",
 		"hashtags": "<i>Ruby on Rails</i>, <i>Rspec</i>, <i>Capybara</i>, <i>Cucumber</i>, <i>RESTful</i>, <i>Postgresql</i>, <i>Ajax</i>, <i>JS</i>, <i>CoffeeScript</i>.",
+		"repository": "//github.com/JackVolontyr/ror-tt",
 		"moreinfo": "Online ticket sales service with chat support functionality."
 	},
 	{
@@ -41,6 +45,7 @@
 		"linkHrefEx": "//jackvolontyr.github.io/calcjs/",
 		"linkPictureEx": "img/calc.png",
 		"hashtags": "<i>OOP</i>, <i>WebPack</i>, <i>Lodash</i>, <i>JS</i>.",
+		"repository": "//github.com/JackVolontyr/calcjs",
 		"moreinfo": "Putting into practice the skills acquired during the course, using the OOP model."
 	},
 	{
@@ -137,6 +142,7 @@
 		"linkHrefEx": "//jackvolontyr.github.io/step-by-step-form/",
 		"linkPictureEx": "img/form.png",
 		"hashtags": "<i>JS</i>, <i>Adaptive</i>.",
+		"repository": "//github.com/JackVolontyr/step-by-step-form",
 		"moreinfo": "For a landing page in development."
 	},
 	{
